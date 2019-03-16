@@ -1,0 +1,19 @@
+<!--
+  ~ /**
+  ~  * Created by Muhammad Sayed on 3/16/19 11:48 AM
+  ~  * Copyright (c) 2019 . All rights reserved.
+  ~  * Last modified 3/9/19 10:16 AM
+  ~  */
+  -->
+
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
